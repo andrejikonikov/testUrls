@@ -1,0 +1,23 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "url-exists": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejikonikov/testUrls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejikonikov/testUrls/issues"
+  },
+  "homepage": "https://github.com/andrejikonikov/testUrls#readme"
+}
